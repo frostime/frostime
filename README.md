@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![frostime's GitHub stats](https://github-readme-stats.vercel.app/api?username=frostime)](https://github.com/anuraghazra/github-readme-stats)
+
+![frostime's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=frostime)
