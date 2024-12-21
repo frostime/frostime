@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- ![frostime's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=frostime) -->
 
 > [!NOTE]
-> I am developing a series of plugins for [SiYuan Note](https://github.com/siyuan-note/siyuan), including [Query&amp;View](https://github.com/frostime/sy-query-view),  [Bookmark+](https://github.com/frostime/sy-bookmark-plus), [Docs Flow](https://github.com/frostime/sy-docs-flow) and more, and mainting the official plugin development template [siyuan-note/plugin-sample-vite-svelte](https://github.com/siyuan-note/plugin-sample-vite-svelte)
+> I am developing a series of plugins for [SiYuan Note](https://github.com/siyuan-note/siyuan), including [Query&amp;View](https://github.com/frostime/sy-query-view), [Bookmark+](https://github.com/frostime/sy-bookmark-plus), [Docs Flow](https://github.com/frostime/sy-docs-flow), and more. Additionally, I am maintaining the official plugin development template, [siyuan-note/plugin-sample-vite-svelte](https://github.com/siyuan-note/plugin-sample-vite-svelte).
 >
 > If you find my work valuable, I would greatly appreciate your support.
 > 
